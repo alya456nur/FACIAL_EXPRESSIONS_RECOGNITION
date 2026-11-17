@@ -70,40 +70,6 @@ TECHNOLOGIES USED
 - Matplotlib - Data visualization.
 - Seaborn - Confusion matrix visualization.
 
-
-PROJECT STRUCTURE
------------------
-
-facial-expression-recognition/
-|
-|-- dataset/
-|   |-- train/
-|   |   |-- angry/
-|   |   |-- happy/
-|   |   |-- neutral/
-|   |   |-- sad/
-|   |   |-- surprise/
-|   |
-|   |-- test/
-|       |-- angry/
-|       |-- happy/
-|       |-- neutral/
-|       |-- sad/
-|       |-- surprise/
-|
-|-- images/
-|   |-- backgroundImg.jpg
-|
-|-- models/
-|   |-- emotion_model.keras
-|   |-- emotion_model1.keras
-|
-|-- train_model.py
-|-- testUI.py
-|-- performance.py
-|-- README.md
-
-
 GETTING STARTED
 ---------------
 
@@ -120,7 +86,7 @@ INSTALLATION
 
 1. Clone the repository:
 
-   git clone https://github.com/YOUR-USERNAME/facial-expression-recognition.git
+   git clone https://github.com/alya456nur/FACIAL_EXPRESSIONS_RECOGNITION.git
 
 2. Navigate to the project directory:
 
